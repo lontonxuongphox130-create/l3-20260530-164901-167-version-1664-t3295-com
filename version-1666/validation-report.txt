@@ -1,8 +1,0 @@
-movies_parsed: 2000
-detail_pages: 2000
-category_pages: 10
-category_cards_total: 2000
-html_files: 2014
-baidu_missing: []
-cover_missing: []
-categories: {'jp-kr-selected': 200, 'romance-art': 200, 'mystery-crime': 200, 'sci-fi-fantasy': 200, 'comedy-healing': 200, 'history-costume': 200, 'action-adventure': 200, 'urban-drama': 200, 'family-growth': 200, 'animation-variety': 200}
