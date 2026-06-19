@@ -1,0 +1,22 @@
+{
+  "generated_at": "2026-05-26T10:50:57",
+  "movies_parsed": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "html_pages_total": 2014,
+  "m3u8_urls_extracted_from_original_js": 150,
+  "unique_m3u8_urls": 20,
+  "all_html_contains_baidu_code": true,
+  "categories": {
+    "日韩精选": 200,
+    "高清电影": 200,
+    "热门剧集": 200,
+    "悬疑犯罪": 200,
+    "动作冒险": 200,
+    "都市情感": 200,
+    "喜剧综艺": 200,
+    "科幻奇幻": 200,
+    "经典片库": 200,
+    "最新热播": 200
+  }
+}
